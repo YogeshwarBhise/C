@@ -1,2 +1,2 @@
 # C
-C Programming. This repository has 2 sub repositories, as Conceptual and ProblemSolving
+C Programming. This repository contains conceptual as well as problem solving codes in C.
